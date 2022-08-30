@@ -1,7 +1,7 @@
 # .custom-stuffs
 Custom configurations for vim, tmux, etc...
 
-## Setup
+## Clone
 ```sh
 git clone --recurse-submodules -j4 https://github.com/Abreto/.custom-stuffs.git
 ```
